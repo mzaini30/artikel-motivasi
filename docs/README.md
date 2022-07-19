@@ -1,2 +1,3 @@
-# artikel-motivasi
-Aplikasi Android Artikel Motivasi
+# Artikel Motivasi
+
+Aplikasi ini akan berisi banyak artikel motivasi.
